@@ -1,10 +1,12 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://drive.google.com/file/d/1mE3OnYe_fXoRdHy2gotH7cYCEVyYGDKF/view?usp=sharing" />
+<img width="1200" height="475" alt="GHBanner" src="https://drive.google.com/file/d/1r2mF6jSe9X9sPoa6SfXIypv5ataCS9Xd/view?usp=sharing" />
 </div>
 
 # Deg's Speed Lab
 
-Deg's Speed Lab is a mobile-first racing intelligence lab designed for Deglend Callahan. The app captures lap telemetry, race summaries, and AI-assisted coaching to create a living journal of Degelend's pursuit of speed and consistency. Every screen exists to answer a single question: *how do we turn raw racing data into faster laps tomorrow?*
+Deg's Speed Lab is a mobile-first racing intelligence lab designed for Deglend Callahan. The app captures lap telemetry, race summaries, and AI-assisted coaching to create a living journal of Deglend's pursuit of speed and consistency. 
+
+Every screen exists to answer a single question: *how do we turn raw racing data into faster laps tomorrow?*
 
 ## Purpose
 
