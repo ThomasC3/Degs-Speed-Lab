@@ -4,7 +4,7 @@
 
 # Deg's Speed Lab
 
-Deg's Speed Lab is a mobile-first racing intelligence lab designed for Degelend Callahan. The app captures lap telemetry, race summaries, and AI-assisted coaching to create a living journal of Degelend's pursuit of speed and consistency. Every screen exists to answer a single question: *how do we turn raw racing data into faster laps tomorrow?*
+Deg's Speed Lab is a mobile-first racing intelligence lab designed for Deglend Callahan. The app captures lap telemetry, race summaries, and AI-assisted coaching to create a living journal of Degelend's pursuit of speed and consistency. Every screen exists to answer a single question: *how do we turn raw racing data into faster laps tomorrow?*
 
 ## Purpose
 
