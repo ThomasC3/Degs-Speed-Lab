@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://drive.google.com/file/d/1r2mF6jSe9X9sPoa6SfXIypv5ataCS9Xd/view?usp=sharing" />
+<img width="1200" height="475" alt="GHBanner" src="Degs Speed Lab.png" />
 </div>
 
 # Deg's Speed Lab
